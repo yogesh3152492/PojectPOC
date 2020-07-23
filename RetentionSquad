@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T11:27:28.290Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="y7UXnN9_YsY-1Hrs5eJs" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-23T11:29:12.741Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="u5asxwq5iag7v9Xr-_xI" version="13.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="UID9581-20">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,27 +22,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Is Campaign Flag = 2 or 3" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="510" y="220" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="350" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KR5TIOYUkmhY3jIFAMo7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="KR5TIOYUkmhY3jIFAMo7-0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="480" />
-              <mxPoint x="420" y="380" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;App Welcome flow&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="500" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KR5TIOYUkmhY3jIFAMo7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Eligible for Feedback Survey" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="500" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KR5TIOYUkmhY3jIFAMo7-0" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Load Dashboard&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KR5TIOYUkmhY3jIFAMo7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KR5TIOYUkmhY3jIFAMo7-3" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
@@ -52,12 +47,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KR5TIOYUkmhY3jIFAMo7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KR5TIOYUkmhY3jIFAMo7-3" target="KR5TIOYUkmhY3jIFAMo7-0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="105" y="380" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="KR5TIOYUkmhY3jIFAMo7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KR5TIOYUkmhY3jIFAMo7-3" target="KR5TIOYUkmhY3jIFAMo7-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KR5TIOYUkmhY3jIFAMo7-8" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KR5TIOYUkmhY3jIFAMo7-6">
           <mxGeometry x="-0.4466" y="-2" relative="1" as="geometry">
@@ -65,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KR5TIOYUkmhY3jIFAMo7-3" value="Campaign Flag &lt;br&gt;!= &lt;br&gt;NULL" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="170" width="130" height="130" as="geometry" />
+          <mxGeometry x="155" y="170" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
