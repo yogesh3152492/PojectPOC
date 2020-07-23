@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T19:25:56.365Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="9cDgf3qITfdO8NF45Y3B" version="13.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-07-23T19:33:07.071Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="SGqDS7eZMjXWkFEfaQ6Q" version="13.5.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="UID9581-20">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,14 +110,38 @@
         <mxCell id="dNCdoKpavWgKrjNG7GJO-2" value="App Welcome flow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNCdoKpavWgKrjNG7GJO-1">
           <mxGeometry x="370" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dNCdoKpavWgKrjNG7GJO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;fontSize=12;" edge="1" parent="dNCdoKpavWgKrjNG7GJO-1" source="dNCdoKpavWgKrjNG7GJO-4" target="dNCdoKpavWgKrjNG7GJO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dNCdoKpavWgKrjNG7GJO-4" value="Login and security" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNCdoKpavWgKrjNG7GJO-1">
           <mxGeometry x="370" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNCdoKpavWgKrjNG7GJO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;fontSize=12;" edge="1" parent="dNCdoKpavWgKrjNG7GJO-1" source="dNCdoKpavWgKrjNG7GJO-5" target="dNCdoKpavWgKrjNG7GJO-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dNCdoKpavWgKrjNG7GJO-5" value="Profile Limits" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNCdoKpavWgKrjNG7GJO-1">
           <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dNCdoKpavWgKrjNG7GJO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;fontSize=12;" edge="1" parent="dNCdoKpavWgKrjNG7GJO-1" source="dNCdoKpavWgKrjNG7GJO-6" target="dNCdoKpavWgKrjNG7GJO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dNCdoKpavWgKrjNG7GJO-6" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-size: 12px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Share account information&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="dNCdoKpavWgKrjNG7GJO-1">
           <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNCdoKpavWgKrjNG7GJO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;fontSize=12;" edge="1" parent="dNCdoKpavWgKrjNG7GJO-1" source="dNCdoKpavWgKrjNG7GJO-10" target="dNCdoKpavWgKrjNG7GJO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNCdoKpavWgKrjNG7GJO-10" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 12px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Survey form, User have option to skip&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="dNCdoKpavWgKrjNG7GJO-1">
+          <mxGeometry x="160" y="400" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNCdoKpavWgKrjNG7GJO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;fontSize=12;" edge="1" parent="dNCdoKpavWgKrjNG7GJO-1" source="dNCdoKpavWgKrjNG7GJO-11" target="dNCdoKpavWgKrjNG7GJO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dNCdoKpavWgKrjNG7GJO-11" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(23 , 43 , 77)&quot;&gt;1. Mark 1st Activation Journey Completed.&lt;/span&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(23 , 43 , 77)&quot;&gt;2. Make 2nd Activation Journey Eligible&lt;/span&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="dNCdoKpavWgKrjNG7GJO-1">
+          <mxGeometry x="160" y="500" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dNCdoKpavWgKrjNG7GJO-16" value="&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Load Dashboard&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="dNCdoKpavWgKrjNG7GJO-1">
+          <mxGeometry x="160" y="600" width="560" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
